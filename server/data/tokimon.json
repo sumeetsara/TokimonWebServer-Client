@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Pikachu",
+    "weight": 9.0,
+    "height": 10.0,
+    "ability": "Lightning",
+    "strength": 100.0,
+    "colour": "Yellow",
+    "tid": 1
+  },
+  {
+    "name": "Richu",
+    "weight": 19.0,
+    "height": 20.0,
+    "ability": "Lightning/Ground",
+    "strength": 200.0,
+    "colour": "Yellow",
+    "tid": 2
+  },
+  {
+    "name": "Pichu",
+    "weight": 5.0,
+    "height": 8.0,
+    "ability": "Lightning",
+    "strength": 50.0,
+    "colour": "Yellow",
+    "tid": 3
+  }
+]
